@@ -1,0 +1,6 @@
+[submodule "Smart_polyhouse_app"]
+	path = Smart_polyhouse_app
+	url = https://github.com/Rosh-2/Smart_polyhouse_app.git
+[submodule "Smart_Polyhouse_backend"]
+	path = Smart_Polyhouse_backend
+	url = https://github.com/Rosh-2/Smart_Polyhouse_backend.git
