@@ -17,3 +17,6 @@ The goal of this project is to provide farmers and agricultural experts with a s
 3. Cloud: GCP (hosting server), Firebase (Firestore, Storage)
 4. IDE Platform: Lightning  AI (for handling heavy GPU process/models)
 5. Other Tools: Camera plugin, REST API integration, JSON parsing
+
+![Screenshot](IMG-20250603-WA0014.jpg) ![Screenshot](IMG-20250603-WA0015.jpg)
+![Screenshot](IMG-20250310-WA0009.jpg) ![Screenshot](IMG-20250603-WA0013.jpg)
