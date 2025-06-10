@@ -18,5 +18,14 @@ The goal of this project is to provide farmers and agricultural experts with a s
 4. IDE Platform: Lightning  AI (for handling heavy GPU process/models)
 5. Other Tools: Camera plugin, REST API integration, JSON parsing
 
-![Screenshot](IMG-20250603-WA0014.jpg) ![Screenshot](IMG-20250603-WA0015.jpg)
-![Screenshot](IMG-20250310-WA0009.jpg) ![Screenshot](IMG-20250603-WA0013.jpg)
+## 📸 Screenshots
+
+<p align="center">
+  <img src="IMG-20250603-WA0014.jpg" alt="Screenshot 1" width="45%" style="margin-right: 10px;" />
+  <img src="IMG-20250603-WA0015.jpg" alt="Screenshot 2" width="45%" />
+</p>
+
+<p align="center">
+  <img src="IMG-20250310-WA0009.jpg" alt="Screenshot 3" width="45%" style="margin-right: 10px;" />
+  <img src="IMG-20250603-WA0013.jpg" alt="Screenshot 4" width="45%" />
+</p>
