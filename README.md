@@ -9,9 +9,9 @@ The goal of this project is to provide farmers and agricultural experts with a s
 2. Process and predict diseases using a pre-trained ResNet-50 model
 3. Upload images and results to Firebase
 4. View history of analyzed images with predictions and timestamps
-5. Cross-platform (Android/iOS) user interface built with Flutter
+5. Cross-platform (Android) user interface built with Flutter
 
-##Tech Stack
+## Tech Stack
 1. Frontend: Flutter (Dart)
 2. Backend/ML: Python (ResNet-50 model, TensorFlow/PyTorch)
 3. Cloud: GCP (hosting server), Firebase (Firestore, Storage)
